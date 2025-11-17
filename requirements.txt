@@ -1,0 +1,8 @@
+dataclasses
+openai
+transformers
+faiss-cpu
+langchain
+pydantic
+python-dotenv
+typing_extensions
